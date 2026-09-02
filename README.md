@@ -1,6 +1,5 @@
 # portfolio-aerospace-engineer
-#Wind Turbine Numerical Analysis Suite
-#This repository contains Python scripts applying numerical methods to evaluate wind turbine power using numerical methods 
+Wind Turbine Numerical Analysis This repository contains Python scripts applying numerical methods to evaluate wind turbine power using numerical methods 
 
 ## Key Features
 - **Numerical Differentiation:** Calculated power rate-of-change  from time-series data using Finite Difference Schemes (Forward, Backward, Central).
