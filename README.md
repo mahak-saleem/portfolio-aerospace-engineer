@@ -14,3 +14,4 @@
 
 ## Usage Note
 Running the finite difference analysis requires an external time-series dataset (`windturbinepower.txt`). Euler's and Bisection algorithms execute independently.
+![Wind Turbine Power Output](power_output_graph.png)
