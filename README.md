@@ -1,4 +1,4 @@
-# portfolio-aerospace-engineer
+# Portfolio-Aerospace-Engineer
 Wind Turbine Numerical Analysis 
 This repository contains Python scripts applying numerical methods to evaluate wind turbine power using numerical methods 
 
